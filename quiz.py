@@ -1,4 +1,4 @@
-print("WEL  COME TO mYqUiZ")
+print("WELCOME TO mYqUiZ")
 name=input("Type your name here: ")
 start=input("Do you want to start the QUIZ? YES/NO: ")
 if start=="yes" or start=="YES":
